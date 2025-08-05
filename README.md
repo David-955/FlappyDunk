@@ -1,8 +1,6 @@
 # 🏀 Flappy Dunk (2018) - Jeu d'arcade basketball
 
-[![Jouer en ligne](https://img.shields.io/badge/Jouer-En%20ligne-blue)](https://david-955.github.io/FlappyDunk/) 
-[![Licence](https://img.shields.io/badge/Licence-MIT-green)](LICENSE)
-[![Processing](https://img.shields.io/badge/Processing-3.4-orange)](https://processing.org)
+[![Jouer en ligne](https://img.shields.io/badge/Jouer-En%20ligne-blue)](https://david-955.github.io/FlappyDunk/)
 
 *Projet académique - Licence Informatique 1ère année - UEVE 2018*
 
