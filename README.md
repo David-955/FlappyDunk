@@ -4,8 +4,6 @@
 
 *Projet académique - Licence Informatique 1ère année - UEVE 2018*
 
-![Capture du gameplay](gameplay.gif)
-
 ## 📝 Description
 Jeu d'arcade inspiré du basketball où le joueur contrôle un ballon devant passer à travers des anneaux tout en évitant les obstacles. Développé dans le cadre universitaire avec une mécanique de physique réaliste.
 
